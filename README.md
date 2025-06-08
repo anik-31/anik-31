@@ -4,8 +4,7 @@ I'm a passionate embedded systems developer based in Bengaluru, Karnataka, curre
 
 🔧 Skills
 Programming Languages
-![image](https://github.com/user-attachments/assets/5d54e246-51a3-4f40-a628-af5fc49acc86)
-, Python, ![image](https://github.com/user-attachments/assets/710abcf7-2a7e-4e14-a653-e7b5b51088e4)
+Embedded C, Python, C++
 
 Embedded Systems
 RTOS (FreeRTOS), Firmware Development
@@ -22,7 +21,7 @@ CNN, RFC
 Pandas, NumPy, TensorFlow, Keras
 
 Tools and Technologies
-Linux, Git, MATLAB, Anaconda, PlatformIO, STM32CubeIDE, Jupyter Notebook, ![image](https://github.com/user-attachments/assets/a9fdd020-f8cc-49e4-b498-cb04b465bfb8)
+Linux, Git, MATLAB, Anaconda, PlatformIO, STM32CubeIDE, Jupyter Notebook
 
 
 📂 Projects
