@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there, I'm Anirudh K N 👋
+🧑‍💻 About Me
+I'm a passionate embedded systems developer based in Bengaluru, Karnataka, currently pursuing my BE in Electronics and Communication Engineering from RNS Institute of Technology. My interests lie in embedded systems, communication protocols, machine learning, and real-time operating systems. I thrive on solving complex challenges and building innovative solutions.
 
-<!--
-**anik-31/anik-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+Programming Languages
+Embedded C
 
-Here are some ideas to get you started:
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++
+
+Embedded Systems
+RTOS (FreeRTOS), Firmware Development
+
+Communication Protocols
+UART, I2C, SPI, CAN Bus
+
+Hardware
+STM32, ESP32, Arduino, Raspberry Pi, Siemens PLC
+
+Machine Learning
+CNN, RFC
+
+Pandas, NumPy, TensorFlow, Keras
+
+Tools and Technologies
+Linux, Git, MATLAB, Anaconda
+
+PlatformIO, STM32CubeIDE, Jupyter Notebook
+
+📂 Projects
+Real-Time Multi-Tasking System with RTOS on STM32
+Designed and implemented an RTOS-based system for managing concurrent tasks such as sensor data acquisition, real-time logging, and peripheral communication using FreeRTOS and STM32CubeIDE.
+
+Custom Driver Development for UART, SPI, and I2C Protocols
+Developed custom drivers for UART, SPI, and I2C communication protocols, showcasing firmware expertise on ESP32 and STM32.
+
+Evil Twin Classification Using ESP32
+Implemented a Random Forest classifier to identify malicious Wi-Fi networks using a custom dataset and Python-based Streamlit.
+
+Bluetooth Speaker with AI Equalization
+Built a genre-classifying CNN model and integrated it with an ESP32 for real-time audio equalization and playback quality optimization.
+
+📫 Contact Me
+Email: knanirudh10@gmail.com
+
+LinkedIn: linkedin.com/in/anirudhkn31
+
+GitHub: github.com/anik-31
