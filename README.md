@@ -1,6 +1,12 @@
-Hi there, I'm Anirudh K N 👋
+👋 Hi there, I'm Anirudh K N
 🧑‍💻 About Me
-I'm a passionate embedded systems developer based in Bengaluru, Karnataka, currently pursuing my BE in Electronics and Communication Engineering from RNS Institute of Technology. My interests lie in embedded systems, communication protocols, machine learning, and real-time operating systems. I thrive on solving complex challenges and building innovative solutions.
+I'm a passionate Embedded Systems Developer based in Bengaluru, Karnataka, currently pursuing my BE in Electronics and Communication Engineering from RNS Institute of Technology.
+💡 I thrive on solving complex challenges and building innovative solutions. My interests include:
+Embedded Systems
+Robotics
+Automation
+Machine Learning
+
 
 🔧 Skills
 Programming Languages
