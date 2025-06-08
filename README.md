@@ -15,6 +15,7 @@ RTOS (FreeRTOS), Firmware Development
 
 Communication Protocols
 UART, I2C, SPI, CAN Bus
+![image](https://github.com/user-attachments/assets/8cb3d84e-f386-4928-a2c9-bc7be2fa77a9)
 
 Hardware
 STM32, ESP32, Arduino, Raspberry Pi, Siemens PLC
