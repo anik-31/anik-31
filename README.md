@@ -1,4 +1,4 @@
-####👋 Hi there, I'm Anirudh K N  
+###### 👋 Hi there, I'm Anirudh K N  
 ##🧑‍💻 About Me  
 I'm a passionate Embedded Systems Developer based in Bengaluru, Karnataka, currently pursuing my BE in Electronics and Communication Engineering from RNS Institute of Technology.    
   
